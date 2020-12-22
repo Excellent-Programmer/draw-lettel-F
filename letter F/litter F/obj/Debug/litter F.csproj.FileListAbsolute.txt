@@ -1,0 +1,7 @@
+D:\Draw with C#\litter F\litter F\bin\Debug\litter F.exe.config
+D:\Draw with C#\litter F\litter F\bin\Debug\litter F.exe
+D:\Draw with C#\litter F\litter F\bin\Debug\litter F.pdb
+D:\Draw with C#\litter F\litter F\obj\Debug\litter F.csprojAssemblyReference.cache
+D:\Draw with C#\litter F\litter F\obj\Debug\litter F.csproj.CoreCompileInputs.cache
+D:\Draw with C#\litter F\litter F\obj\Debug\litter F.exe
+D:\Draw with C#\litter F\litter F\obj\Debug\litter F.pdb
